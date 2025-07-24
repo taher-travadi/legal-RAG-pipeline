@@ -1,0 +1,1180 @@
+
+=== Query 1 ===
+Query: Can we use client data (including PHI) to develop or test new services, and enhance, improve, or modify our existing services?
+Latency: 1904.67 ms
+
+Answer:
+Based on the available context, using client data, including PHI (Protected Health Information), to develop or test new services, or enhance, improve, or modify existing services, may be permissible under certain conditions. Specifically, 3M can use PHI for the proper management and administration of its operations or to carry out its legal responsibilities, provided it obtains reasonable assurances from third parties to whom the PHI is disclosed that it will remain confidential, be used or further disclosed only as required by law or for the intended purpose, and any Security Incidents will be reported [5]. 
+
+However, the context does not explicitly mention using PHI for developing new services beyond what's outlined here, so care should be taken to ensure compliance with applicable laws and agreements governing PHI use.
+
+Source References:
+[1]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  text: report to VENDOR or the relevant covered entity any discovery of a breach of unsecured PHI, without unreasonable delay, or any use or disclosure of the PHI not provided for in this Addendum of which i...
+[2]:
+  document_type: Reseller Agreement
+  text: h. document disclosures of PH] made pursuant to applicable law and information related to such disclosures as would be required for  VENDOR or the relevant covered entity to respond to a request by an...
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+[3]:
+  text: when used in this Addendum shall have a meaning as defined by the Privacy and Security Regulations or the HITECH Act but for the purposes of this Addendum shall be limited to PHI and/or EPHI received...
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[4]:
+  document_type: DUA
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  text: a. Discloser hereby represents and warrants to Recipient  that Discloser has the right and authority to  execute this Agreement , disclose the Covered  Data to Recipient  and that the provision of suc...
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+[5]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  text: Except as otherwise limited in this Addendum, 3M may use or disclose PHI:  @ on behalf of, or to provide services to, VENDOR or the relevant covered entity, as provided for in the Agreement and in acc...
+
+Chunks:
+Chunk [1]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: report to VENDOR or the relevant covered entity any discovery of a breach of unsecured PHI, without unreasonable delay, or any use or disclosure of the PHI not provided for in this Addendum of which it becomes aware;  d. to the extent 3M maintains or otherwise holds, uses or discloses Unsecured PHI,...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: h. document disclosures of PH] made pursuant to applicable law and information related to such disclosures as would be required for  VENDOR or the relevant covered entity to respond to a request by an individual for an accounting of disclosures of PHI in accordance with 45 CFR §164.528 or Section 13...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: when used in this Addendum shall have a meaning as defined by the Privacy and Security Regulations or the HITECH Act but for the purposes of this Addendum shall be limited to PHI and/or EPHI received from, or created or received by 3M on behalf of, VENDOR and/or a covered entity. Wherever the term P...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  text preview: a. Discloser hereby represents and warrants to Recipient  that Discloser has the right and authority to  execute this Agreement , disclose the Covered  Data to Recipient  and that the provision of such Covered   Data to Recipient  hereunder is not in violation or in breach of any law, regulation, co...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: Except as otherwise limited in this Addendum, 3M may use or disclose PHI:  @ on behalf of, or to provide services to, VENDOR or the relevant covered entity, as provided for in the Agreement and in accordance with the Privacy Rule; 3M shall request, use and disclose only the minimum amount of PH} nec...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 2 ===
+Query: Can we use aggregated client data or de-identified client data for the purposes of developing, testing, enhancing, improving, or modifying services?
+Latency: 1221.28 ms
+
+Answer:
+Yes, aggregated client data or de-identified client data can be used for the purposes of developing, testing, enhancing, improving, or modifying services. The context provided states that Personify Health allows the vendor to aggregate and de-identify the data, and use the aggregated de-identified information for preparing commercially available normative and benchmarking data, as well as for internal and external research, analysis, and product development purposes [1].
+
+Source References:
+[1]:
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  document_type: DUA
+  text: 2. C overed Data . Subject to the terms and conditions of this Agreement, Discloser  hereby agrees to disclose to Recipient   the Covered  Data, solely to effectuate the Purpose set forth herein . Rec...
+[2]:
+  client_account: Oracle America, Inc
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  document_type: Quote
+  text: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or...
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+[3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reason...
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[4]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+[5]:
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  document_type: SOW
+  text: Supplier  is not, and shall not be , responsible for any claims,  damages, loss es or breach (including under any theory of indemnification) that are directly  or indirectly related to  incorrect or i...
+
+Chunks:
+Chunk [1]:
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  text preview: 2. C overed Data . Subject to the terms and conditions of this Agreement, Discloser  hereby agrees to disclose to Recipient   the Covered  Data, solely to effectuate the Purpose set forth herein . Recipient hereby acknowledges and agrees that  Discloser and  those individual Members  that are the su...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or products which are provided  pursuant to a separate agreement or by a party other than Oracle (as de...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reasonable amount of time. Modules/Datasets  Include:    Global Equity Contact and Ownership Data, Excel ...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  text preview: Supplier  is not, and shall not be , responsible for any claims,  damages, loss es or breach (including under any theory of indemnification) that are directly  or indirectly related to  incorrect or incomplete information supplied by or on behalf of  Anthem . 2.2. Anthem  will p rovide Supplier  wit...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 3 ===
+Query: Are there any restrictions on using artificial intelligence or machine learning in delivering the services?
+Latency: 1195.98 ms
+
+Answer:
+The context provided does not include any specific restrictions on using artificial intelligence or machine learning in delivering the services. The chunks mention various service provision details, data privacy requirements, and disaster recovery plans but do not explicitly address the use of AI or ML technologies in service delivery. Therefore, there are no cited restrictions on AI or ML based on the given context.
+
+Source References:
+[1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  client_account: S&P Global Ratings
+  text: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice...
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[2]:
+  client_account: Humana
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text: If Vendor participates in tests, it shall support the following activities:  The provision of technical experts at the Vendor data center to participate as needed during the Humana systems recovery te...
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  document_type: SOW
+[3]:
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: Finance   BDC     DocuSign Envelope ID: 2FA44D5F-58C2-46EE-B320-7CCCBAB9F204 2  Ipreo Rep: Andrew Parven  6. Additional Provisions . a. Additional Use Restrictions . i. BD Corporate: Customer may acce...
+  document_type: Amendment
+[4]:
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  text: send us an e -mail to legal@verscend .com and in the body of such request you must  state your e -mail, full name, IS Postal Address, telephone number, and account number. Required hardware and softwa...
+  file_name: Dynamics_-_66186_signed.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/66186/Dynamics_-_66186_signed.pdf
+  document_type: NDA
+[5]:
+  text: If Humana requires expanded capacity, Cotiviti will evaluate the request and provide an estimate of the additional annual fee. Support for additional load testing will be billed at $200 per hour. Atta...
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  client_account: Humana
+  document_type: SOW
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice of Customer’s intent not to renew this Schedule, Vendor may discontinue  Customer’s access to the “E...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  client_account: Humana
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text preview: If Vendor participates in tests, it shall support the following activities:  The provision of technical experts at the Vendor data center to participate as needed during the Humana systems recovery test, during normal business hours. Document Vendor’s involvement in Humana’s disaster recovery tests ...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Finance   BDC     DocuSign Envelope ID: 2FA44D5F-58C2-46EE-B320-7CCCBAB9F204 2  Ipreo Rep: Andrew Parven  6. Additional Provisions . a. Additional Use Restrictions . i. BD Corporate: Customer may access and use the Databases,  as applicable, solely for the following purposes: (i) to view any of the ...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: Dynamics_-_66186_signed.pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  document_type: NDA
+  s3_path: s3://ml-legal-restricted/contract-docs/66186/Dynamics_-_66186_signed.pdf
+  text preview: send us an e -mail to legal@verscend .com and in the body of such request you must  state your e -mail, full name, IS Postal Address, telephone number, and account number. Required hardware and software    Operating Systems:  Windows2000¬ or WindowsXP¬   Browsers (for  SENDERS):  Internet Explorer 6...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  client_account: Humana
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text preview: If Humana requires expanded capacity, Cotiviti will evaluate the request and provide an estimate of the additional annual fee. Support for additional load testing will be billed at $200 per hour. Attachment B  to  SCHEDULE A: QUALITY INTELLIGENCE FEES (as of July 1, 2023)   *All measures have a aggr...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 4 ===
+Query: Are there any specific terms regarding the use of client data for training and fine-tuning AI models?
+Latency: 1281.66 ms
+
+Answer:
+The provided context does not contain any explicit terms regarding the use of client data for training and fine-tuning AI models. The context includes data processing agreements, use restrictions, policies for data subjects to opt-out, site usage instructions, subscription services, and data security measures, but does not specifically address using client data for AI model training or fine-tuning.
+
+Source References:
+[1]:
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  document_type: Amendment
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[2]:
+  client_account: S&P Global Ratings
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  text: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reason...
+[3]:
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: Finance   BDC     DocuSign Envelope ID: 2FA44D5F-58C2-46EE-B320-7CCCBAB9F204 2  Ipreo Rep: Andrew Parven  6. Additional Provisions . a. Additional Use Restrictions . i. BD Corporate: Customer may acce...
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[4]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or...
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+[5]:
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  text: Recipient  shall issue appropriate instruction to each employee given access to the Covered Data regarding restrictions at  least as restrictive as those set forth in this Agreement and  shall provide...
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  document_type: DUA
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reasonable amount of time. Modules/Datasets  Include:    Global Equity Contact and Ownership Data, Excel ...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Finance   BDC     DocuSign Envelope ID: 2FA44D5F-58C2-46EE-B320-7CCCBAB9F204 2  Ipreo Rep: Andrew Parven  6. Additional Provisions . a. Additional Use Restrictions . i. BD Corporate: Customer may access and use the Databases,  as applicable, solely for the following purposes: (i) to view any of the ...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or products which are provided  pursuant to a separate agreement or by a party other than Oracle (as de...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  text preview: Recipient  shall issue appropriate instruction to each employee given access to the Covered Data regarding restrictions at  least as restrictive as those set forth in this Agreement and  shall provide physical security of the Covered  Data to the same  or greater degree that Recipient  protects its ...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 5 ===
+Query: Are there any limitations on storing client data (including PHI) in the cloud?
+Latency: 2233.12 ms
+
+Answer:
+The documents do not explicitly address limitations on storing client data, including PHI, in the cloud. They focus primarily on the obligations and safeguards that 3M must implement when handling PHI. Specifically, 3M is required to use appropriate administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of electronic PHI (EPHI) that it creates, receives, maintains, or transmits on behalf of a vendor or covered entity [3]. This includes ensuring that any subcontractors also implement reasonable and appropriate safeguards [3]. Therefore, while the documents describe how PHI should be protected, they do not directly address limitations related to cloud storage.
+
+Source References:
+[1]:
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  text: report to VENDOR or the relevant covered entity any discovery of a breach of unsecured PHI, without unreasonable delay, or any use or disclosure of the PHI not provided for in this Addendum of which i...
+[2]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  client_account: 3M Health Information System, Inc.
+  text: h. document disclosures of PH] made pursuant to applicable law and information related to such disclosures as would be required for  VENDOR or the relevant covered entity to respond to a request by an...
+[3]:
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: when used in this Addendum shall have a meaning as defined by the Privacy and Security Regulations or the HITECH Act but for the purposes of this Addendum shall be limited to PHI and/or EPHI received...
+[4]:
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  text: a. Discloser hereby represents and warrants to Recipient  that Discloser has the right and authority to  execute this Agreement , disclose the Covered  Data to Recipient  and that the provision of suc...
+  document_type: DUA
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+[5]:
+  client_account: 3M Health Information System, Inc.
+  text: Except as otherwise limited in this Addendum, 3M may use or disclose PHI:  @ on behalf of, or to provide services to, VENDOR or the relevant covered entity, as provided for in the Agreement and in acc...
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: report to VENDOR or the relevant covered entity any discovery of a breach of unsecured PHI, without unreasonable delay, or any use or disclosure of the PHI not provided for in this Addendum of which it becomes aware;  d. to the extent 3M maintains or otherwise holds, uses or discloses Unsecured PHI,...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: h. document disclosures of PH] made pursuant to applicable law and information related to such disclosures as would be required for  VENDOR or the relevant covered entity to respond to a request by an individual for an accounting of disclosures of PHI in accordance with 45 CFR §164.528 or Section 13...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: when used in this Addendum shall have a meaning as defined by the Privacy and Security Regulations or the HITECH Act but for the purposes of this Addendum shall be limited to PHI and/or EPHI received from, or created or received by 3M on behalf of, VENDOR and/or a covered entity. Wherever the term P...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  text preview: a. Discloser hereby represents and warrants to Recipient  that Discloser has the right and authority to  execute this Agreement , disclose the Covered  Data to Recipient  and that the provision of such Covered   Data to Recipient  hereunder is not in violation or in breach of any law, regulation, co...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: Except as otherwise limited in this Addendum, 3M may use or disclose PHI:  @ on behalf of, or to provide services to, VENDOR or the relevant covered entity, as provided for in the Agreement and in accordance with the Privacy Rule; 3M shall request, use and disclose only the minimum amount of PH} nec...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 6 ===
+Query: Are there any restrictions on using cloud services to assist in the processing of client data (including PHI)?
+Latency: 2554.07 ms
+
+Answer:
+Yes, there are restrictions regarding the use of electronic protected health information (EPHI) received from or created on behalf of VENDOR or a covered entity. These restrictions generally involve several key obligations and activities to ensure the protection of EPHI when using cloud services or otherwise processing client data. 
+
+3M agrees to implement appropriate administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of EPHI. Furthermore, any agent, including subcontractors to whom EPHI is provided by 3M, must agree to implement reasonable and appropriate safeguards to protect it [3]. 
+
+Additionally, there is a restriction on remuneration received in exchange for PHI. As per Section 13405(d) of the HITECH Act, 3M may not receive payment for PHI unless permitted by the Act or regulations issued by the Secretary, except for activities undertaken on behalf of VENDOR or the covered entity under the Agreement [4]. 
+
+These obligations emphasize the importance of security measures and compliance with legal standards when using cloud services for processing PHI [3], [4].
+
+Source References:
+[1]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  text: report to VENDOR or the relevant covered entity any discovery of a breach of unsecured PHI, without unreasonable delay, or any use or disclosure of the PHI not provided for in this Addendum of which i...
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[2]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  text: h. document disclosures of PH] made pursuant to applicable law and information related to such disclosures as would be required for  VENDOR or the relevant covered entity to respond to a request by an...
+[3]:
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  text: when used in this Addendum shall have a meaning as defined by the Privacy and Security Regulations or the HITECH Act but for the purposes of this Addendum shall be limited to PHI and/or EPHI received...
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[4]:
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: Except as otherwise limited in this Addendum, 3M may use or disclose PHI:  @ on behalf of, or to provide services to, VENDOR or the relevant covered entity, as provided for in the Agreement and in acc...
+[5]:
+  text: a. Discloser hereby represents and warrants to Recipient  that Discloser has the right and authority to  execute this Agreement , disclose the Covered  Data to Recipient  and that the provision of suc...
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  document_type: DUA
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: report to VENDOR or the relevant covered entity any discovery of a breach of unsecured PHI, without unreasonable delay, or any use or disclosure of the PHI not provided for in this Addendum of which it becomes aware;  d. to the extent 3M maintains or otherwise holds, uses or discloses Unsecured PHI,...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: h. document disclosures of PH] made pursuant to applicable law and information related to such disclosures as would be required for  VENDOR or the relevant covered entity to respond to a request by an individual for an accounting of disclosures of PHI in accordance with 45 CFR §164.528 or Section 13...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: when used in this Addendum shall have a meaning as defined by the Privacy and Security Regulations or the HITECH Act but for the purposes of this Addendum shall be limited to PHI and/or EPHI received from, or created or received by 3M on behalf of, VENDOR and/or a covered entity. Wherever the term P...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: Except as otherwise limited in this Addendum, 3M may use or disclose PHI:  @ on behalf of, or to provide services to, VENDOR or the relevant covered entity, as provided for in the Agreement and in accordance with the Privacy Rule; 3M shall request, use and disclose only the minimum amount of PH} nec...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  client_account: F.B.P. Insurance Services (Precept/McGriff)
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/75516/PHHC - Cotiviti - DUA - TE - 10222024 - Dynamics_75516.pdf
+  text preview: a. Discloser hereby represents and warrants to Recipient  that Discloser has the right and authority to  execute this Agreement , disclose the Covered  Data to Recipient  and that the provision of such Covered   Data to Recipient  hereunder is not in violation or in breach of any law, regulation, co...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 7 ===
+Query: Is there any requirement for human oversight or decision-making in the use of AI for delivering the services?
+Latency: 1329.77 ms
+
+Answer:
+The provided context does not explicitly mention any requirement for human oversight or decision-making in the use of AI for delivering the services. The documents primarily outline contractual obligations, service procedures, data privacy requirements, and technical support activities, but do not address specific requirements regarding the integration or oversight of AI technologies. Therefore, based on the available context, there is no identified requirement for human oversight in the use of AI services.
+
+Source References:
+[1]:
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[2]:
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text: If Vendor participates in tests, it shall support the following activities:  The provision of technical experts at the Vendor data center to participate as needed during the Humana systems recovery te...
+  client_account: Humana
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  document_type: SOW
+[3]:
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text: If Humana determines that more states need to be added, Humana agrees to provide written notification to Cotiviti at least2months prior to submission date. Pricing for those additional Non NCQA Measur...
+  client_account: Humana
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  document_type: SOW
+[4]:
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  document_type: SOW
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  text: As such, any definitions, obligations or requirements in the Agreement shall apply  to this SOW, as though fully set forth herein. In the event of conflict between this SOW  and the Agreement, the Agr...
+[5]:
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice...
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  client_account: Humana
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text preview: If Vendor participates in tests, it shall support the following activities:  The provision of technical experts at the Vendor data center to participate as needed during the Humana systems recovery test, during normal business hours. Document Vendor’s involvement in Humana’s disaster recovery tests ...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  client_account: Humana
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/70008/Humana Second Amended and Restated Schedule A redline 5-8-23.docx
+  text preview: If Humana determines that more states need to be added, Humana agrees to provide written notification to Cotiviti at least2months prior to submission date. Pricing for those additional Non NCQA Measures will be determined by the Non NCQA/Custom Measures as outlined in Attachment B. and submitted to ...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  text preview: As such, any definitions, obligations or requirements in the Agreement shall apply  to this SOW, as though fully set forth herein. In the event of conflict between this SOW  and the Agreement, the Agreement shall govern. 8.2. Each party represents and warrants to the other that this SOW has been dul...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice of Customer’s intent not to renew this Schedule, Vendor may discontinue  Customer’s access to the “E...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 8 ===
+Query: Does the client have any ownership rights in developed IP or developed materials generated from the use of their data?
+Latency: 1286.02 ms
+
+Answer:
+The context provided does not explicitly mention client ownership rights over developed IP or developed materials generated from the use of their data. Instead, it discusses the definition and handling of Confidential Information and data privacy responsibilities. For instance, the contract specifies confidentiality terms and the role of Customer and Vendor as Data Controllers but does not elaborate on ownership rights related to IP or materials developed from the use of client data [4], [5].
+
+Source References:
+[1]:
+  text: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reason...
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  client_account: S&P Global Ratings
+[2]:
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+[3]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: If any quarterly statement is more than ninety (90) days past due, 3M may, in its sole discretion and in addition to rights under Section 12.2, suspend its performance pursuant to Section 4.2.4 until...
+  document_type: Reseller Agreement
+  client_account: 3M Health Information System, Inc.
+[4]:
+  document_type: DUA
+  text: Confidential Information   For the purposes of this Agreement, "Confidential Information" shall mean, with respect to a party,  all information, ideas, concepts, plans, names of resources, business re...
+  client_account: Lowe's Companies
+  s3_path: s3://ml-legal-restricted/contract-docs/69010/GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  file_name: GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+[5]:
+  document_type: Amendment
+  text: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice...
+  client_account: S&P Global Ratings
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reasonable amount of time. Modules/Datasets  Include:    Global Equity Contact and Ownership Data, Excel ...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: If any quarterly statement is more than ninety (90) days past due, 3M may, in its sole discretion and in addition to rights under Section 12.2, suspend its performance pursuant to Section 4.2.4 until the quarterly statement, and all payments due thereunder, are brought current. 6. CONFIDENTIAL! 61 C...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  client_account: Lowe's Companies
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/69010/GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  text preview: Confidential Information   For the purposes of this Agreement, "Confidential Information" shall mean, with respect to a party,  all information, ideas, concepts, plans, names of resources, business records, costs, income, customer  and future plans,  financial and marketing data, software programs, ...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice of Customer’s intent not to renew this Schedule, Vendor may discontinue  Customer’s access to the “E...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 9 ===
+Query: Are there any specific terms regarding the ownership and usage rights of IP developed through the use of client data?
+Latency: 1554.78 ms
+
+Answer:
+The provided context does not include specific terms regarding ownership and usage rights of IP developed using client data. The documents mention several aspects related to data, such as definitions of "Data", "Database", and "Personal Data", in the context of data protection legislation [4]. They also highlight the confidentiality of information exchanged under an agreement [5]. However, there are no explicit details on ownership and usage rights of intellectual property developed through client data in the provided context.
+
+Source References:
+[1]:
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reason...
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[2]:
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: Ipreo Corporate Schedule NA (v04052018)      AMENDED AND RESTATED  SCHEDULE A  GLOBAL MARKETS INTEL LIGENCE,  BD CORPORATE,  FACTSET WORKSTATION   This Amended and Restated Schedule A (“Schedule ”) to...
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: Structured Deliverables Include:      Daily Reports summarizing Customer, peer, industry and market performance;    Communication of major ownership changes in the Customer’s equity as they are unco...
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[4]:
+  text: DocuSign Envelope ID: 2FA44D5F-58C2-46EE-B320-7CCCBAB9F204 3  Ipreo Rep: Andrew Parven  iv. Notwithstanding anything to the contrary in the Ag reement, as used herein or in the Agreement, the followin...
+  document_type: Amendment
+  client_account: S&P Global Ratings
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[5]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  text: If any quarterly statement is more than ninety (90) days past due, 3M may, in its sole discretion and in addition to rights under Section 12.2, suspend its performance pursuant to Section 4.2.4 until...
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reasonable amount of time. Modules/Datasets  Include:    Global Equity Contact and Ownership Data, Excel ...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Ipreo Corporate Schedule NA (v04052018)      AMENDED AND RESTATED  SCHEDULE A  GLOBAL MARKETS INTEL LIGENCE,  BD CORPORATE,  FACTSET WORKSTATION   This Amended and Restated Schedule A (“Schedule ”) to the Master Services Agreement (“ Master Services Agreement ”) entered into as of  May 31, 2016   be...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Structured Deliverables Include:      Daily Reports summarizing Customer, peer, industry and market performance;    Communication of major ownership changes in the Customer’s equity as they are uncovered;    Assistance in prioritizing institutional investor meetin gs based on investment opportuni...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: DocuSign Envelope ID: 2FA44D5F-58C2-46EE-B320-7CCCBAB9F204 3  Ipreo Rep: Andrew Parven  iv. Notwithstanding anything to the contrary in the Ag reement, as used herein or in the Agreement, the following terms have the meanings  ascribed to them as follows:   “Business to Business Communications ” sha...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: If any quarterly statement is more than ninety (90) days past due, 3M may, in its sole discretion and in addition to rights under Section 12.2, suspend its performance pursuant to Section 4.2.4 until the quarterly statement, and all payments due thereunder, are brought current. 6. CONFIDENTIAL! 61 C...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 10 ===
+Query: Are there any restrictions, prohibitions, or notice requirements related to the incorporation of open-source code into any solution?
+Latency: 1216.53 ms
+
+Answer:
+Based on the provided context, there is no mention of restrictions, prohibitions, or notice requirements specifically related to the incorporation of open-source code into any solution. The context includes information about contract renewals, confidentiality obligations, data processing roles, and return of materials, but it does not address anything specifically related to open-source code or its incorporation.
+
+Source References:
+[1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  text: Upon expiration of the Initial Period ,  this Schedule shall automatically renew for a period equal to the length of such Initial Period (each, a “ Renewal Period ”), unless either Party provides  wri...
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+[2]:
+  s3_path: s3://ml-legal-restricted/contract-docs/80694/Black Duck Software_NDA_12232014_fully executed.pdf
+  client_account: Black Duck Software
+  file_name: Black Duck Software_NDA_12232014_fully executed.pdf
+  text: Personnel will have access only to the Confidential Information they need for such purposes. Each party will ensure that its Personnel comply with this Agreement and will promptly notify the other par...
+  document_type: NDA
+[3]:
+  document_type: Amendment
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice...
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[4]:
+  client_account: Lowe's Companies
+  file_name: GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  text: Each party acknowledges that a disclosing party may be irreparably damaged to the  extent that any of the terms of this Agreement are violated and agrees that such terms shall be  enforceable through...
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/69010/GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+[5]:
+  s3_path: s3://ml-legal-restricted/contract-docs/71455/Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+  client_account: Kaiser Permanente
+  text: This Work Order Form must be signed by both parties prior to initiating the  services described herein. The parties hereto have executed this Work Order Form as of the date set forth above.
+  document_type: Work Order / Change Request
+  file_name: Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Upon expiration of the Initial Period ,  this Schedule shall automatically renew for a period equal to the length of such Initial Period (each, a “ Renewal Period ”), unless either Party provides  written notice of non -renewal at least sixty (60) days prior to the expiration of such Initial Period ...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Black Duck Software_NDA_12232014_fully executed.pdf
+  client_account: Black Duck Software
+  document_type: NDA
+  s3_path: s3://ml-legal-restricted/contract-docs/80694/Black Duck Software_NDA_12232014_fully executed.pdf
+  text preview: Personnel will have access only to the Confidential Information they need for such purposes. Each party will ensure that its Personnel comply with this Agreement and will promptly notify the other party of any breach of this Agreement. Each party agrees that it will take all reasonable measures to p...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice of Customer’s intent not to renew this Schedule, Vendor may discontinue  Customer’s access to the “E...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  client_account: Lowe's Companies
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/69010/GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  text preview: Each party acknowledges that a disclosing party may be irreparably damaged to the  extent that any of the terms of this Agreement are violated and agrees that such terms shall be  enforceable through (i) issuance of an injunction restraining the unauthorized copying,  duplication, use, dissemination...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+  client_account: Kaiser Permanente
+  document_type: Work Order / Change Request
+  s3_path: s3://ml-legal-restricted/contract-docs/71455/Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+  text preview: This Work Order Form must be signed by both parties prior to initiating the  services described herein. The parties hereto have executed this Work Order Form as of the date set forth above.
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 11 ===
+Query: Are there any obligations to notify the client of material improvements or enhancements to a solution?
+Latency: 1351.21 ms
+
+Answer:
+The provided context does not explicitly mention any obligations to notify the client of material improvements or enhancements to a solution. However, it outlines several contractual obligations and rights regarding termination, confidentiality, and authorized actions in case of breaches, among other aspects. For example, it describes procedures and rights upon termination of agreements ([2], [3], [4]), confidentiality obligations ([5]), and data subject rights ([1]). Without additional context explicitly addressing notifications of improvements or enhancements, no definitive answer can be provided based on the available information.
+
+Source References:
+[1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  document_type: Amendment
+[2]:
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: Either party may immediately terminate this Agreement by giving the other party written notice of termination upon the occurrence of any of the following events: (i) the other party fails to remedy a...
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[3]:
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  text: As such, any definitions, obligations or requirements in the Agreement shall apply  to this SOW, as though fully set forth herein. In the event of conflict between this SOW  and the Agreement, the Agr...
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+[4]:
+  text: Upon any material breach of this Agreement by VENDOR for which 3M has given VENDOR prior written notice and an opportunity to remedy such breach, 3M may, at its sole discretion, suspend its performanc...
+  document_type: Reseller Agreement
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[5]:
+  client_account: Lowe's Companies
+  text: Each party acknowledges that a disclosing party may be irreparably damaged to the  extent that any of the terms of this Agreement are violated and agrees that such terms shall be  enforceable through...
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/69010/GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  file_name: GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: Either party may immediately terminate this Agreement by giving the other party written notice of termination upon the occurrence of any of the following events: (i) the other party fails to remedy a material breach of this Agreement within forty-five (45) days after the other party has received wri...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  text preview: As such, any definitions, obligations or requirements in the Agreement shall apply  to this SOW, as though fully set forth herein. In the event of conflict between this SOW  and the Agreement, the Agreement shall govern. 8.2. Each party represents and warrants to the other that this SOW has been dul...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: Upon any material breach of this Agreement by VENDOR for which 3M has given VENDOR prior written notice and an opportunity to remedy such breach, 3M may, at its sole discretion, suspend its performance of any obligation related to such breach, after the remedy period, and such suspension may be in a...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  client_account: Lowe's Companies
+  document_type: DUA
+  s3_path: s3://ml-legal-restricted/contract-docs/69010/GRI - Cotiviti - DUA - AS - 07202022 - Dynamics_69010.pdf
+  text preview: Each party acknowledges that a disclosing party may be irreparably damaged to the  extent that any of the terms of this Agreement are violated and agrees that such terms shall be  enforceable through (i) issuance of an injunction restraining the unauthorized copying,  duplication, use, dissemination...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 12 ===
+Query: Is client approval required for implementing significant changes or upgrades to the services?
+Latency: 1286.04 ms
+
+Answer:
+The provided context does not specify whether client approval is required for implementing significant changes or upgrades to the services. The documents provided focus on various aspects such as the execution of agreements [2], [5], conversion rate calculations [3], and data processing agreements [4]. None explicitly mention policies or requirements concerning client approval for service changes or upgrades.
+
+Source References:
+[1]:
+  document_type: Amendment
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  client_account: S&P Global Ratings
+[2]:
+  document_type: Work Order / Change Request
+  text: This Work Order Form must be signed by both parties prior to initiating the  services described herein. The parties hereto have executed this Work Order Form as of the date set forth above.
+  s3_path: s3://ml-legal-restricted/contract-docs/71455/Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+  client_account: Kaiser Permanente
+  file_name: Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+[3]:
+  text: For purpose s of this SOW, Conversion Rate shall be calculated by dividing the number of  claims where a valid Recovery Opportunity is submitted in a given audit type and/or line  of business for a gi...
+  document_type: SOW
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+[4]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  document_type: Quote
+  text: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or...
+[5]:
+  file_name: Dynamics_-_63126_signed.pdf
+  client_account: Westport Healthcare Advisory Group
+  s3_path: s3://ml-legal-restricted/contract-docs/63126/Dynamics_-_63126_signed.pdf
+  document_type: NDA
+  text: [Signature  Page  Follows]   DocuSign Envelope ID: 4B765F6E-94CE-4410-91CC-9587F38F12BE  5 IN  WITNESS  WHEREOF,  the  Parties  hereto  have  caused  this  Agreement  to  be  executed  by  their  duly...
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+  client_account: Kaiser Permanente
+  document_type: Work Order / Change Request
+  s3_path: s3://ml-legal-restricted/contract-docs/71455/Kaiser - Cotiviti - WOCR - TE - 04062023 - Dynamics_71455.pdf
+  text preview: This Work Order Form must be signed by both parties prior to initiating the  services described herein. The parties hereto have executed this Work Order Form as of the date set forth above.
+------------------------------------------------------------
+Chunk [3]:
+  file_name: SOW_Cotiviti_DM_Sep19 (002).pdf
+  client_account: Anthem, Inc (WellPoint, Inc.)
+  document_type: SOW
+  s3_path: s3://ml-legal-restricted/contract-docs/55821/SOW_Cotiviti_DM_Sep19 (002).pdf
+  text preview: For purpose s of this SOW, Conversion Rate shall be calculated by dividing the number of  claims where a valid Recovery Opportunity is submitted in a given audit type and/or line  of business for a given month by the total number of claims submitted by Supplier for  review in that same month. Recove...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or products which are provided  pursuant to a separate agreement or by a party other than Oracle (as de...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Dynamics_-_63126_signed.pdf
+  client_account: Westport Healthcare Advisory Group
+  document_type: NDA
+  s3_path: s3://ml-legal-restricted/contract-docs/63126/Dynamics_-_63126_signed.pdf
+  text preview: [Signature  Page  Follows]   DocuSign Envelope ID: 4B765F6E-94CE-4410-91CC-9587F38F12BE  5 IN  WITNESS  WHEREOF,  the  Parties  hereto  have  caused  this  Agreement  to  be  executed  by  their  duly  authorized  representatives  effective  as  of  the  date  and  year  first  written  above.
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 13 ===
+Query: Are there any restrictions or requirements related to the use of third-party vendors or subcontractors in the processing of client data?
+Latency: 2682.28 ms
+
+Answer:
+Yes, there are restrictions and requirements related to the use of third-party vendors or subcontractors in the processing of client data. Specifically, third-party products and/or modules may be subject to additional restrictions as set forth on Annex B, if applicable [2]. Additionally, there are requirements around the use of Vendor Customer Data, including the stipulation that during the term of the agreement, 3M requires the temporary access and use of such Vendor Customer Data for processing queries and returning results to the Vendor Implementation. The Vendor warrants that they have full authority to transmit, reproduce, adapt, modify, translate, and distribute the Vendor Customer Data to 3M. Furthermore, 3M shall not use or disclose Vendor Customer Data for any purpose other than to provide and support the GPCS services and will not disclose it to law enforcement unless required by law [5].
+
+Source References:
+[1]:
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[2]:
+  text: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice...
+  document_type: Amendment
+  client_account: S&P Global Ratings
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[3]:
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  document_type: Reseller Agreement
+  text: This indemnification does not extend to VENDOR Customers, and is not assignable or intended to be flowed- down to VENDOR Customers; however, subject to Section 10, nothing prohibits VENDOR from making...
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[4]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: In the event 3M is compelled to disclose VENDOR Customer Data to law enforcement, 3M will use commercially reasonable efforts to notify VENDOR in advance of such disclosure untess legally prohibited....
+  document_type: Reseller Agreement
+  client_account: 3M Health Information System, Inc.
+[5]:
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: 3M also grants VENDOR, anonexclusive, nontransferable, license to make available the Connectivity Materials and all or any part of the textual material from the 3M Documents, to VENDOR’s wholly-owned...
+  document_type: Reseller Agreement
+  client_account: 3M Health Information System, Inc.
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Third party Products and/or Modules , if any, may be  subjec t to additional restrictions as set forth on Annex B , if  applicable. b. Effect of Non -Renewal of this Schedule . Upon receipt of notice of Customer’s intent not to renew this Schedule, Vendor may discontinue  Customer’s access to the “E...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: This indemnification does not extend to VENDOR Customers, and is not assignable or intended to be flowed- down to VENDOR Customers; however, subject to Section 10, nothing prohibits VENDOR from making an indemnification to VENDOR Customers that Is consistent with this indemnification so long as no V...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: In the event 3M is compelled to disclose VENDOR Customer Data to law enforcement, 3M will use commercially reasonable efforts to notify VENDOR in advance of such disclosure untess legally prohibited. 3M agrees that VENDOR Customer Data which 3M receives shall remain in the United States of America. ...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: 3M also grants VENDOR, anonexclusive, nontransferable, license to make available the Connectivity Materials and all or any part of the textual material from the 3M Documents, to VENDOR’s wholly-owned foreign subsidiaries located in the countries of India and Ukraine, and to VENDOR's development cent...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 14 ===
+Query: Are there any clauses requiring explicit client consent for the use of their data in specific ways, such as for R&D purposes or AI training?
+Latency: 2016.06 ms
+
+Answer:
+The provided context does not explicitly mention any clauses requiring explicit client consent for the use of their data for specific purposes such as R&D or AI training. The document from Cotiviti mentions policies and procedures for data subjects to unsubscribe or opt-out from the database and marketing communications, which indicates a focus on permission regarding communications, but does not specifically address consent for using data for R&D or AI training purposes [1].  
+
+Additionally, the context outlines various agreements and terms related to services, fees, and use types, but does not include specifics on obtaining client consent for data usage beyond the defined contexts [2], [3], [4], [5].
+
+Source References:
+[1]:
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  client_account: S&P Global Ratings
+[2]:
+  text: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reason...
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  document_type: Amendment
+  client_account: S&P Global Ratings
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[3]:
+  document_type: NDA
+  file_name: Dynamics_-_63126_signed.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/63126/Dynamics_-_63126_signed.pdf
+  text: [Signature  Page  Follows]   DocuSign Envelope ID: 4B765F6E-94CE-4410-91CC-9587F38F12BE  5 IN  WITNESS  WHEREOF,  the  Parties  hereto  have  caused  this  Agreement  to  be  executed  by  their  duly...
+  client_account: Westport Healthcare Advisory Group
+[4]:
+  document_type: Reseller Agreement
+  client_account: 3M Health Information System, Inc.
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text: C. Annual Software Developers License Fee:  LICENSE Fee               GPCS DSF _| Grouper Plus Content Services Development Support Fee $6,01 2.00     @M VALUE ADDED RESELLER SOFTWARE AGREEMENT Pace...
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+[5]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  document_type: Quote
+  text: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or...
+  client_account: Oracle America, Inc
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reasonable amount of time. Modules/Datasets  Include:    Global Equity Contact and Ownership Data, Excel ...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Dynamics_-_63126_signed.pdf
+  client_account: Westport Healthcare Advisory Group
+  document_type: NDA
+  s3_path: s3://ml-legal-restricted/contract-docs/63126/Dynamics_-_63126_signed.pdf
+  text preview: [Signature  Page  Follows]   DocuSign Envelope ID: 4B765F6E-94CE-4410-91CC-9587F38F12BE  5 IN  WITNESS  WHEREOF,  the  Parties  hereto  have  caused  this  Agreement  to  be  executed  by  their  duly  authorized  representatives  effective  as  of  the  date  and  year  first  written  above.
+------------------------------------------------------------
+Chunk [4]:
+  file_name: 3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  client_account: 3M Health Information System, Inc.
+  document_type: Reseller Agreement
+  s3_path: s3://ml-legal-restricted/contract-docs/79737/3M_VAR Agmt and BAA_08232013_fully executed.pdf
+  text preview: C. Annual Software Developers License Fee:  LICENSE Fee               GPCS DSF _| Grouper Plus Content Services Development Support Fee $6,01 2.00     @M VALUE ADDED RESELLER SOFTWARE AGREEMENT Pace 15 oF 24                       EXHIBIT B VENDOR SOFTWARE VENDOR Software product Use Type #1 Use Typ...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or products which are provided  pursuant to a separate agreement or by a party other than Oracle (as de...
+------------------------------------------------------------
+
+================================================================================
+
+=== Query 15 ===
+Query: Does the client have any rights to audit our data processing practices or AI model training processes?
+Latency: 1255.64 ms
+
+Answer:
+The provided context does not contain any explicit details regarding the rights of a client to audit data processing practices or AI model training processes. Therefore, based on the given information, no mention is made of any client having such audit rights in relation to data processing or AI model training.
+
+Source References:
+[1]:
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed...
+  document_type: Amendment
+  client_account: S&P Global Ratings
+[2]:
+  text: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reason...
+  document_type: Amendment
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+[3]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text: Oracle America, Inc. 2300 Oracle Way Austin, TX 78741 800 762 5524 www.netsuite.com  Page 1 of 4Estimate      Date 10/29/2021      Estimate # 930170                         Customer Name & Address...
+  client_account: Oracle America, Inc
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  document_type: Quote
+[4]:
+  text: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or...
+  document_type: Quote
+  client_account: Oracle America, Inc
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+[5]:
+  document_type: Quote
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text: Terms of Your Order 1. Agreement Except as set forth above, the terms and conditions of the applicable agreement between you and Oracle (including any updated URL Terms or  other applicable web based...
+
+Chunks:
+Chunk [1]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: Additionally, Vendor has adopted and implemented policies, procedures and systems to respond to its legal obligations and the needs of the  Data Subject whose Relevant Personal Data is being processed (“Relevant Data Subjects”), including the provision for Relevant  Data Subjects  to unsubscribe/opt...
+------------------------------------------------------------
+Chunk [2]:
+  file_name: Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  client_account: S&P Global Ratings
+  document_type: Amendment
+  s3_path: s3://ml-legal-restricted/contract-docs/78587/Cotiviti USA LLC GMI BDC FSWS Amended and Restated Schedule A May 2018.pdf
+  text preview: The Sit e may be changed  to another URL by Vendor in its sole discretion, provided that Vendor shall provide Customer with notice thereof o r otherwise redirect Customer  to such new URL for a reasonable amount of time. Modules/Datasets  Include:    Global Equity Contact and Ownership Data, Excel ...
+------------------------------------------------------------
+Chunk [3]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: Oracle America, Inc. 2300 Oracle Way Austin, TX 78741 800 762 5524 www.netsuite.com  Page 1 of 4Estimate      Date 10/29/2021      Estimate # 930170                         Customer Name & Address     Eliza Corporation 75 Sylvan St Danvers MA 01923 United States                    Item Qty Descripti...
+------------------------------------------------------------
+Chunk [4]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: The Data Processing Agreement also does not apply to any (1) demonstration  accounts, trials, beta releases, release preview or other similar versions of the services or (2) any features, services or products which are provided  pursuant to a separate agreement or by a party other than Oracle (as de...
+------------------------------------------------------------
+Chunk [5]:
+  file_name: Eliza_1_Month_Renewal_Estimate_930170.pdf
+  client_account: Oracle America, Inc
+  document_type: Quote
+  s3_path: s3://ml-legal-restricted/contract-docs/63293/Eliza_1_Month_Renewal_Estimate_930170.pdf
+  text preview: Terms of Your Order 1. Agreement Except as set forth above, the terms and conditions of the applicable agreement between you and Oracle (including any updated URL Terms or  other applicable web based terms in effect as of the date of this document) shall apply to the products and/or services set for...
+------------------------------------------------------------
+
+================================================================================
